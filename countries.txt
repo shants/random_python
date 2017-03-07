@@ -1,0 +1,12 @@
+india,1
+pakistan,2
+australia,3
+uk,4
+greece,5
+france,6
+spain,7
+ireland,8
+iceland,9
+china,10
+bhutan,11
+srilanka,12
